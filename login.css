@@ -1,0 +1,71 @@
+/* Login form css */
+    body{
+    margin: 0px;
+    padding: 0px;
+    text-align:center;
+    width: 100%;
+    text-decoration-color: white;
+    background-image:  url("7.jpg");
+    
+     
+    
+    
+    }
+     
+    input[type=text], input[type=password]{
+    width:50%;
+    padding:10px 10px;
+    margin: 10px 15px;
+    display:inline-block; 
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 20px;
+    outline: none;
+    border-radius: 5px;
+    }
+     
+    button{
+    background-color: dodgerblue;
+    width: 30%;
+    padding: 9px 5px;
+    margin:20px 0px 0px 64px;
+    cursor:pointer;
+    border:none;
+    color:#ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    opacity: 0.6;
+    color: black;
+    }
+     
+
+     
+    #un,#ps{
+    font-family:'Lato', sans-serif;
+    color: #dde1e7;
+    }
+ 
+ 
+    #container{
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 600px;
+        height: 300px;
+        text-align: center;
+        background: #000;
+        opacity: 0.8;
+        border-radius: 10px;
+    }
+    .border-box h2{
+        color: white;
+    }
+    #container a{
+        color: white;
+        margin-left: 15px;
+     
+    /* Login form css */    
+    }
